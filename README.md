@@ -26,7 +26,6 @@ There's a util-vco that I use a LOT to test new designs with.  I have 12v and 15
 If you have any questions at all please feel free to contact me via github.
 
 Enjoy!
-m
  
 Mike Moretti
 http://mordent.com
